@@ -1,8 +1,8 @@
 import React from 'react'
 import { Global, css } from '@emotion/core'
 import styled from '@emotion/styled'
-import { SideBar } from './SideBar'
-import { SectionContainer } from './SectionContainer'
+import { SideBar } from '../../sidebar'
+import { SectionContainer } from '../../section'
 
 export const App = () => (
   <Wrapper>
